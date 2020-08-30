@@ -11,4 +11,3 @@ Tired of getting your calendar, time zones and zoom timings mixed up ?¿ heres y
 ### Features:
 - Inbuilt zoom meetings dashboard
 - Inbuilt TODO lists
-- Inbuilt assignments tracking
