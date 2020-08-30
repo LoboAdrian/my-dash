@@ -7,3 +7,8 @@ Tired of getting your calendar, time zones and zoom timings mixed up ?¿ heres y
 ##### TODOs ???  we've got you covered with an integrated todo list you can acces them right from your dashboard !!!
 
 #### How ???  just register at [my-dash](https://bothacks.loboadrian.repl.co) 
+
+### Features:
+- Inbuilt zoom meetings dashboard
+- Inbuilt TODO lists
+- Inbuilt assignments tracking
