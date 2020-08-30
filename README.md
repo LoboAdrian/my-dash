@@ -12,4 +12,4 @@ Tired of getting your calendar, time zones and zoom timings mixed up ?¿ heres y
 - Inbuilt zoom meetings dashboard
 - Inbuilt TODO lists
 
-###### PS Login/SignUp broken; will be taken care of in the release
+###### PS Login/SignUp broken ---> in development 
