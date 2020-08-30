@@ -9,7 +9,7 @@ Tired of getting your calendar, time zones and zoom timings mixed up ?¿ heres y
 #### How ???  just register at [my-dash](https://bothacks.loboadrian.repl.co) 
 
 ### Features:
-- Inbuilt zoom meetings dashboard
+- Inbuilt zoom meetings and google meet dashboard
 - Inbuilt TODO lists
 
 ######  Click on login button to see all festures.
